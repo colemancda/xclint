@@ -1,5 +1,6 @@
 <img src="assets/header.png" width="400"/><br/>
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 <a href="https://travis-ci.org/carambalabs/xclint">
     <img src="https://travis-ci.org/carambalabs/xclint.svg?branch=master">
 </a>
